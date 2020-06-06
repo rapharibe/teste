@@ -4,3 +4,4 @@ Teste do Curso Fullstack
 * git commit
 * git pull
 * git push
+* cd nomedapasta (entra na pasta)
